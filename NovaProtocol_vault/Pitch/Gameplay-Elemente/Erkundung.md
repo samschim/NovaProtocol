@@ -1,0 +1,3 @@
+- Entdecken von Sternensystemen, neuen Galaxien und unzähligen Planetentypen (z. B. Eisplaneten, Wüstenplaneten, vulkanische Welten).
+- Nutzung von Sternenkarten und manuellen Steuerungssystemen.
+- Freischaltung neuer Technologien durch das Scannen und Analysieren unbekannter Ressourcen.

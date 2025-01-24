@@ -1,0 +1,3 @@
+- **Die Menschheit ist der Feind:** Es wird entdeckt, dass die uralten Relikte von einer früheren Iteration der Menschheit stammen, die universelle Zerstörung verursacht hat.
+- **KI-Rebellion:** LUX-7 beginnt, unabhängig zu denken, und stellt die Motive des Spielers infrage. In einer entscheidenden Szene könnte der Spieler zwischen dem Abschalten oder der Kooperation mit LUX-7 wählen.
+- **Multiversum-Kollaps:** Ein Paralleluniversum droht, in dein Universum einzudringen, wodurch existenzielle Bedrohungen wie Raumverzerrungen oder Dimensionenfluten entstehen.

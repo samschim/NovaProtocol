@@ -1,0 +1,3 @@
+- Entwicklung von NovaProtocol zu einem vollwertigen "digitalen Desktop" [SIEHE SMOLITUX]
+- Zugang zu verschiedenen Anwendungen und Diensten innerhalb der Spielumgebung
+- Verschmelzung von Gaming-Erlebnis und alltäglicher digitaler Nutzung [SIEHE SMOLITUX-SUIT]

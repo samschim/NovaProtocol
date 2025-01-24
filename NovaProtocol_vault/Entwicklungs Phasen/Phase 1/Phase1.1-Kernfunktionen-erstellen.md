@@ -1,0 +1,4 @@
+- **Phase 1: Kernfunktionen erstellen**
+    - Charakterbewegung (Raumschiffsteuerung und Spielersteuerung).
+    - Grundlegendes Survival-System (Sauerstoff, Ressourcen, Energie).
+    - Prozedurale Generierung eines Planeten oder Universums.

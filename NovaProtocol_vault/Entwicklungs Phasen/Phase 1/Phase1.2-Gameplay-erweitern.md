@@ -1,0 +1,4 @@
+- **Phase 2: Gameplay erweitern**
+    - Terraforming-System und Basisbau.
+    - Crafting und Ressourcenabbau.
+    - Einfache Gegner und Fraktionen.

@@ -1,0 +1,6 @@
+- **Prozedurale Galaxien und Planeten**:
+    - Jede Galaxie ist einzigartig und bietet unterschiedliche Ressourcen, Biome und Herausforderungen.
+- **Interaktive Sternenkarten**:
+    - Spieler können Routen planen, Raumschiffe automatisch navigieren lassen oder selbst steuern.
+- **Artefakte und Relikte**:
+    - Das Erkunden von Ruinen auf Planeten oder Wracks im All enthüllt die Geschichte des Universums und neue Technologien.

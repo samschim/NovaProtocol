@@ -1,0 +1,3 @@
+- **Im All**: Ressourcen wie Metalle aus Asteroiden und exotische Gase können für die Raumschiff-Wartung und Upgrades genutzt werden.
+- **Auf Planeten**: Nutzung lokaler Ressourcen für Shelterbau, Ausrüstung und Terraforming.
+- **Terraforming**: Herstellung von Spezialwerkzeugen, um Landschaften, Atmosphären und Ökosysteme zu gestalten.

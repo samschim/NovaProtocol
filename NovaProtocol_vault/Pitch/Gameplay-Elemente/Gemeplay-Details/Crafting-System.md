@@ -1,0 +1,12 @@
+- **Basisressourcen**:
+    - Ressourcen aus Asteroiden: Metalle, Kristalle, exotische Gase.
+    - Ressourcen auf Planeten: Holz, Erze, Pflanzen, Wasser.
+- **Crafting im All**:
+    - Tragbare Crafting-Kits für Reparaturen und Notfallausrüstung.
+    - Raumschiff-Upgrades wie stärkere Schilde, größere Frachträume und verbesserte Triebwerke.
+- **Crafting auf Planeten**:
+    - Herstellung von Werkzeugen und Gebäuden für Shelter und Basisbau.
+    - Fortschrittliche Terraforming-Module zur großflächigen Veränderung von Landschaften.
+- **Technologiefortschritt**:
+    - Blaupausen und Talente können durch Missionen, Artefaktfunde und Levelaufstiege freigeschaltet werden.
+    - Ressourcenknappheit zwingt Spieler, neue Wege zu finden, um Materialien effizienter zu nutzen.

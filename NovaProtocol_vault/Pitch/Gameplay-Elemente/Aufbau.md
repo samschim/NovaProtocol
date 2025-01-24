@@ -1,0 +1,2 @@
+- **Raumschiffe**: Eigene Raumschiffe und Raumstationen bauen und modifizieren.
+- **Planeten**: Städte, Infrastrukturen und Biome erschaffen, die den Bedürfnissen des Spielers entsprechen.

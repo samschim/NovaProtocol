@@ -1,0 +1,1 @@
+Spieler können Allianzen gründen oder sich bestehenden Fraktionen anschließen, um Zugang zu einzigartigen Technologien und Ressourcen zu erhalten.[ÜBERARBEITEN,WEITERENTICKELN]

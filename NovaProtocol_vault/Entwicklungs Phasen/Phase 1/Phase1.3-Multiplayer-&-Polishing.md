@@ -1,0 +1,4 @@
+- **Phase 3: Multiplayer und Polishing**
+    - Kooperativer Multiplayer.
+    - Fortgeschrittene Weltraumkämpfe und dynamische Events.
+    - Optimierung der Performance und UI/UX.

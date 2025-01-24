@@ -1,0 +1,4 @@
+1. **Persönliche Verantwortung**: Die Entscheidungen des Spielers beeinflussen das Universum. Terraformst du einen Planeten für die Menschheit oder bewahrst du seine unberührte Natur? Schließt du Allianzen oder kämpfst du allein?
+2. **Tiefe Konflikte**: Rivalisierende Fraktionen, moralische Dilemmata und eine mysteriöse außerirdische Bedrohung machen die Erzählung dynamisch und spannend.
+3. **Offene Enden**: Nach Abschluss der Hauptstory bleibt die Welt lebendig, und der Spieler kann in einer endlosen offenen Welt weiterleben, neue Technologien entwickeln und seinen Einfluss ausbauen.
+4. Metaverse-Konzept [ÜBERARBEITEN,WEITERENTICKELN]
