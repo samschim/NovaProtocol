@@ -1,0 +1,2 @@
+- Das Quanten Navigationsgerät wird erst wärend einer Mission des 1. Akts gefunden und nach erfolgreichem Abschluss freigeschaltet.
+- Das Quanten Navigationsgerät ermöglicht das Inter stellte reisen.
