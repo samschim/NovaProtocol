@@ -2,9 +2,9 @@ NovaProtocol geht über traditionelle Spielgrenzen hinaus und strebt danach, ein
 
 ## Blockchain-Integration und Spielerökonomie
 
-- Einführung eines Krypto-Protokolls als spielbare Missionen
+- Einführung eines Krypto-Protokolls als spielbare Missionen [ÜBERARBEITEN]
 - Spieler können durch Terraforming und Missionserstellung Coins minen
-- Realer Handel mit In-Game-Währung ermöglicht
+- Realer Handel mit In-Game-Währung ermöglicht den Handel von Items als NFTs [ÜBERARBEITEN]
 
 ## Nahtlose Integration externer Anwendungen
 

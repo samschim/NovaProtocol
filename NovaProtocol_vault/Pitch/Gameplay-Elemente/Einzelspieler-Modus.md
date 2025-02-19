@@ -2,6 +2,9 @@
     - Der Spieler beginnt mit der Mission, Ressourcen zu finden und terraformbare Planeten zu entdecken, um die Menschheit zu retten.
     - Der Fortschritt führt von kleinen Erkundungsmissionen über die Konstruktion eines leistungsstärkeren Raumschiffs bis hin zur Expansion in neue Galaxien.
     - Dynamische Wendungen und Begegnungen mit außerirdischen Technologien und rivalisierenden Fraktionen bieten eine fesselnde Erzählung.
+- **Inspirationsquellen**:
+    - **No Man's Sky**: Offene Erkundung und Ressourcenmanagement.
+    - **Empyrion – Galactic Survival**: Crafting, Survival und technologische Fortschritte.
     
 - **Open Wolrd:**  
 	- Spieler können eigene Items als 3D Modelle in Blender erstellen und in dem Spiel verwenden
@@ -9,6 +12,3 @@
 			- Ist das Item nur "optisch" oder hat es auch "Eigenschaften"(Waffe,Rüstung,o.ä.)
 		- Spieler können im Game Items als NTFs erstellen und mit diesen Handeln.
 		- [ERGÄNZE WEITEREN INHALT]
-- **Inspirationsquellen**:
-    - **No Man's Sky**: Offene Erkundung und Ressourcenmanagement.
-    - **Empyrion – Galactic Survival**: Crafting, Survival und technologische Fortschritte.

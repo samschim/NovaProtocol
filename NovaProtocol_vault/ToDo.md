@@ -11,7 +11,7 @@
     - Die Entscheidungen jedes Spielers beeinflussen die Entwicklungen in unserem Universum
         - Diese Entwicklungen beeinflussen den gesamten Open-World Spielverlauf - innherhalb des Main-Universum
             - Die Milchstraße und die Main-Story sind davon ausgeschlossen - damit jeder spieler den selben Spiel Start erlebt
-        - Wie sich das Open-World und Open-Story Main-Universum entwickelt ist unklar
+        - Wie sich das Open-World und Open-Story Main-Universum entwickelt ist unklar, wird durch den Spielverlauf/Spielentwicklung definiert
 
 - [ ] **Multiversum**
     - Nachdem ein Spieler die Main-Story abgeschlossen hat und das Parallel-Universum und dessen Technologien entdeckt hat, kann jeder Spieler in ein eigenes Universum Reisen.
@@ -24,8 +24,8 @@
             - Das Bewustseibn wird digitalisiert
             - Das Bewustsein wird von einem Universum in den "eigen" Körper in einem anderen Parallel-Universum transferiert
                 - Dadurch hat der Spieler die Möglichkeit den Storyverlauf seinen Universums zu verändern.
-                - Reist ein Spieler in ein anderes Parallel-Universum ("privates"-Universum), kann die Entwicklung nicht rückgängig gemacht werden:
-                    - Das "Bewustsein" wird ja überschrieben... [IDEE AUSARBEITEN]
+                - [Reist ein Spieler in ein anderes Parallel-Universum ("privates"-Universum), kann die Entwicklung nicht rückgängig gemacht werden:
+                    - Das "Bewustsein" wird ja überschrieben... (IDEE AUSARBEITEN)]
 
     - Es gitb zudem weitere Universen
         - Mit anderen physikalischen Bedingungen
@@ -43,16 +43,16 @@
 
 
 - [ ] **WICHTIG - IMPLEMENTIEREN: DAS SPEIL NOVAPROTOCOL SOLL BEIDE ANSÄTZE VERFOLGEN UND VERBINDEN**
-    - **UNTERSCHEIDUNG ZWISCHEN "PARALLEL-UNIVERSUM" UND "ALTERNATIVEM UNVIVERSUM/MULTIVERSUM":**
+    - **DEFINITION "PARALLEL-UNIVERSUM" UND "ALTERNATIVEM UNIVERSUM/MULTIVERSUM":**
         - **DEFINITION MULTIVERSUM:**
-            - **DAS MULTIVERSUM IST EIN "SPACE" AUẞERHALB UNSERES UNIVERSUMS MIT VIELEN UNIVERSEN DIE SICH ANDERS ENTWICKELT HABEN**
+            - **DAS MULTIVERSUM IST EIN "SPACE" AUßERHALB UNSERES UNIVERSUMS MIT VIELEN UNIVERSEN DIE SICH ANDERS ENTWICKELT HABEN**
         - **DEFINITION PARALLEL-UNIVERSUM:**
             - **PARALLEL-UNIVERSUM BEDEUTED, ES GITB VIELE UNIVERSEN, DIE IMMER IRGENDWIE EINEN BEZUG ZU UNSEREM UNIVERSUM HABEN**
-    - **VLT ZUSÄTZLICHE ANSÄTZE:**
+    - **VLT ZUSÄTZLICHE ANSÄTZE DIE VERBUNDEN UND INTEGRIERT WERDEN KÖNNEN:**
         - **MATHEMATIK MULTIVERSUM VON MAX TEKMAK(?Schreibweise?):**
             - **JEDES MATHEMATISCH MÖGLICHE UNIVERSUM EXISTIERT**
             - **KÖNNTE ALS ENTWICKLUNGSANSATZ DER PROZEDUAL GENERIERTEN UNIVERSEN DIENEN**
-        - **Antry lind(?) Theorie:**
+        - **Antry Lind(?) Theorie:**
             - **Natürliche Auslese der Universen: Nur die Universen in denen sich intelligentes Leben bildet bleiben erhalten.**
             - **Intelligente Zivilisationen können irgendwann "Universen im Labor erstellen", dadurch entstehen neue Universen, ein Multiversum.**
 
@@ -66,3 +66,18 @@
         - Es besteht aus einer Hauptstory und einem Open-World-Part mit vielen Nebenstorys. 
     - Durch die Open-Source-Natur können diverse Entwickler, von Indie-Entwicklern bis zu großen Plattformen, ihre Spiele integrieren.  
     - Ein Wettbewerb mit NFT-System, Auszahlungssystem und ESN-Token wird in der dritten Phase gestartet, um Entwickler zur Integration ihrer Spiele ins Nova Protokoll zu motivieren. 
+
+
+## **Ideen und Zusammenfassungen:**
+
+- **Produkte:** Cyberspace (AR/VR App, Visualisierung der Erde, Spieleinstiegspunkt), Nova Protokoll (prozedural generiertes Multiversum-Spiel), ESN-Token (NFT und Token-System)
+- **Entwicklungsphase:** Übergang von Phase 2 (Prototypen) zu Phase 3 (Hauptentwicklung)
+- **Technologie:** Open Source, Schnittstellen für andere Spiele und Metaversen
+- **Nova Protokoll Struktur:** Hauptstory, Open World Part, Nebenstorys, Integration anderer Spiele
+- **Wettbewerb:**  Integration von Spielen ins Nova Protokoll,  NFT-System, Auszahlungssystem mit Smolit Token,  Laufzeit 1,5-3 Jahre im Testnetzwerk, Bewertung in Etappen.
+
+
+
+- **Marketing & Finanzierung:**
+    - Kooperationen/Werbepartner (Objektplatzierung im Nova Protokoll, Werbeflächen im CyberSpace)
+    - Lizenzverkauf für virtuelle Firmenrepräsentationen im CyberSpace.
