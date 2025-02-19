@@ -14,6 +14,6 @@ NovaProtocol geht über traditionelle Spielgrenzen hinaus und strebt danach, ein
 
 ## Multifunktionale Plattform
 
-- Entwicklung von NovaProtocol zu einem vollwertigen "digitalen Desktop"
+- Entwicklung von NovaProtocol zu einem vollwertigen "digitalen Desktop" [das ist der CyberSpace, NovaProtocol ist nur das Game]
 - Zugang zu verschiedenen Anwendungen und Diensten innerhalb der Spielumgebung
 - Verschmelzung von Gaming-Erlebnis und alltäglicher digitaler Nutzung
